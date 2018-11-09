@@ -1,0 +1,1080 @@
+[
+  {
+    "name": "Lothinias",
+    "x": 201,
+    "y": 60,
+    "pop": {
+      "title": "Lothinias",
+      "content": "Lothinias is a continent. Shaped as a butterfly, it has a minimum width (east to west) of 500 miles and a maximum width of 650 miles (not including islands).<br />It has a minimum height (north to south) of 125 miles and a max of 450 miles (not including islands)."
+    },
+    "class": "map-title",
+    "size": "46"
+  },
+  {
+    "name": "Wild Times",
+    "x": 874,
+    "y": 60,
+    "pop": {
+      "title": "Wild Times",
+      "content": "<p>The Wild Times are an epoch that started with the creation of the seven Yinarists and the departure of the gods from Earth.<br />The sudden departure of the gods caused a strong disbalance in the world. It affected mostly dragons, elves and dwarves, who were the closest to their Gods and depended a lot on them. Men, ogres and goblins, who were already used to count on their own strengths to live in the world, saw this as an opportunity to spread on Earth and stop the dominance of the former races.</p><p>Without the gods, all the mortals realised they needed to outgrow their primitive society and evolve in more complex, self-organised civilizations.<br />In Lothinias, the different races occupied the four corners of the continent and gave birth to the Four Great Nations (Kingdom of Men, Zhanalost, Elvenland and Dwarvendur).</p><p>The first half of the Wild Times are characterised by the creation of the Four Great Nations. The second half sees the consolidation of the nations and the wars between them.</p>[...]"
+    },
+    "class": "map-title",
+    "size": "46"
+  },
+  {
+    "name": "Lands of Ice",
+    "x": 520,
+    "y": 28,
+    "pop": {
+      "title": "Lands of Ice",
+      "content": "<p>Lands of Ice are a very remote place of which very little is known. Located north of Lothinias, it is possibly an island and does not belong with the continent.<br/ >Very few have dared venture that far, and even fewer have come back. It is thought as a dwelling place of Whintlin (White Dragons). It is a land with limited vegetation, no known settlements and characterised by frigid temperatures and perennial glaciers.</p>"
+    },
+    "class": "grey",
+    "size": "22"
+  },
+  {
+    "name": "Pentilon",
+    "x": 537,
+    "y": 110,
+    "pop": {
+      "title": "Pentilon",
+      "content": "<p>Pentilon is a large atoll in the centre of the Northern Gulf (Farahil's Bay). It is thought to be a dwelling place of Pentlin (Blue Dragons), for the great creatures have often been seen swimming or flying around the island and all civilisation attempts have failed because of the dragons.</p>"
+    },
+    "class": "",
+    "size": "18"
+  },
+  {
+    "name": "Northern Gulf",
+    "x": 470,
+    "y": 192,
+    "pop": {
+      "title": "Northern Gulf",
+      "content": "<p>The Northern Gulf is a very large and deep inlet located in the center and north part of Lothinias. The gulf divides Elvenlands from Zhanalost and touches the Wild Lands at its nearest point. Pentilon is the widest island in the gulf.</p>"
+    },
+    "class": "",
+    "size": "26"
+  },
+  {
+    "name": "Southern Sea",
+    "x": 480,
+    "y": 790,
+    "pop": {
+      "title": "Southern Sea",
+      "content": "<p>The Southern Sea is the sea on the south of Lothinias. It includes all the Andarin Islands and most of the southern border of the continent.</p>"
+    },
+    "class": "",
+    "size": "26"
+  },
+  {
+    "name": "Elvenlands",
+    "x": 271,
+    "y": 354,
+    "pop": {
+      "title": "Elvenlands",
+      "content": "<p>Elvenlands is one of the four Great Nations. It encompasses most of the North-Western region of Lothinias, with the exception of the San-Quel and the Spiral Islands. Its southern border is marked by the San-Lonor and, on the Eastern side, Feyra is the furthest settlement.</p>"
+    },
+    "class": "underlined",
+    "size": "28"
+  },
+  {
+    "name": "Zhanalost",
+    "x": 772,
+    "y": 262,
+    "pop": {
+      "title": "Zhanalost",
+      "content": "<p>Zhanalost is the North-Eastern area of Lothinias. It is one of the four great nations. The capital is Astr-Caster (the Tower of Power), situated in the heart of Thakhas Mountains, the only chain of mountains in the region.</p><p>The area is the unofficial nation of Ogres. In practice, it hosts most of the population of goblins in Lothinias.</p>"
+    },
+    "class": "underlined",
+    "size": "28"
+  },
+  {
+    "name": "Dwarvendur",
+    "x": 306,
+    "y": 609,
+    "pop": {
+      "title": "Dwarvendur",
+      "content": "<p>One of the four great nations of Lothinias, situated south-west of the continent. It is the nations of Dwarves.</p>"
+    },
+    "class": "underlined",
+    "size": "28"
+  },
+  {
+    "name": "The Kingdom",
+    "x": 714,
+    "y": 646,
+    "pop": {
+      "title": "The Kingdom",
+      "content": "<p>One of the great four nations of Lothinias, situated south-east of the continent. It is often referred to as 'The Kingdom of Men', as it reunites most of the humans on Lothinias.</p>"
+    },
+    "class": "underlined",
+    "size": "28"
+  },
+  {
+    "name": "The Wild Lands",
+    "x": 517,
+    "y": 432,
+    "pop": {
+      "title": "The Wild Lands",
+      "content": "<p>The Wild Lands are a heart-shaped region located in the exact centre of Lothinias. They were the main characteristic of The Wild Times (from which the age takes its name) and became the region of Farahil, in the Golden Age.<br />The Wild Lands are a large plain crossed by the three main branches of the Sohonir river and the Sohonir Lake (later also known as Farahil's Lake ).<br />The Wild Lands border all of the Four Great Nations and are touched by the Northern Gulf (later renamed The Gulf of Farahil), where the vast Sohonir's delta lays.</p><p>In the Wild Times, the Wild Lands are the largest area of unclaimed lands. No men, dwarves, elves, ogres or goblins have been able to create a settlement because of the dangers and inhospitality of the lands.<br />The Zharklis, or Black Dragons, are the real owners of the land. During the Wild Times, the Zharklis settles in the these lands and make sure no leaving being (other than food) crosses them alive."
+    },
+    "class": "",
+    "size": "18"
+  },
+  {
+    "name": "Astr-Caster",
+    "x": 989,
+    "y": 175,
+    "pop": {
+      "title": "Astr-Caster",
+      "content": "<p>Astr-Caster is the major city in Zhanalost and its unofficial capital. It is entirely ruled by ogres.</p>"
+    },
+    "class": "",
+    "size": "20"
+  },
+  {
+    "name": "Elinor",
+    "x": 858,
+    "y": 674,
+    "pop": {
+      "title": "Elinor",
+      "content": "<p>Elinor is the capital of the Kingdom of Men. Also known as the White City.</p>"
+    },
+    "class": "",
+    "size": "20"
+  },
+  {
+    "name": "Eliashur",
+    "x": 296,
+    "y": 264,
+    "pop": {
+      "title": "Eliashur",
+      "content": "<p>Eliashur is the unofficial capital of Elvenlands, as it's the major city of the elven nation, and the only one where both Elves of Light and Elves of the Forest dwell alongside each other.</p>"
+    },
+    "class": "",
+    "size": "20"
+  },
+  {
+    "name": "Rhotgar-Dur",
+    "x": 373,
+    "y": 565,
+    "pop": {
+      "title": "Rhotgar-Dur",
+      "content": "<p>Rhotgar-Dur, or the Marble City, is the capital of Dwarvendur.</p>"
+    },
+    "class": "",
+    "size": "20"
+  },
+  {
+    "name": "Enoras",
+    "x": 802,
+    "y": 535,
+    "pop": {
+      "title": "Enoras",
+      "content": "<p>A fluvial city in the Kingdom of Men</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Astenora",
+    "x": 964,
+    "y": 588,
+    "pop": {
+      "title": "Astenora",
+      "content": "<p>Astenora is a large, fluvial city on the Long Nor lake (also known as Astenora Lake), in the Kingdom on Men.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Easttown",
+    "x": 984,
+    "y": 515,
+    "pop": {
+      "title": "Easttown",
+      "content": "<p>Easttown is the eastmost, big settlement in the Kingdom of Men. Quite isolated from the core network of cities, Easttown has an history marked by the efforts of his Lords to show their influence in the decisions of the Kingdom.</p><p>In the Wild Times, the city provides riders to the norther line of The Cordon and to defend the southern border of Lake Aurula.</p><p>When the Black Dragons are kicked out of the Wild Lands, a small group of them moves to the Three Peaks, three lonely mountains that hide most of Lothinias from Easttown.</p><p>The villagers try to kick them out but without success. They ask for help to the capital, but the king is reluctant to send the army. The Zharklis are not a big threat, they live in the mounts in relative peace but swipe over the town once or twice a year, stealing livestock and, if challenged, destroying anything on their path.</p>The villagers soon get used to the plague and learn to live with it, but they never fully forgive the Capital and the kings for not helping them.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Gorton",
+    "x": 633,
+    "y": 664,
+    "pop": {
+      "title": "Gorton",
+      "content": "<p>Gorton is a large city in the Kingdom of Men. Situated in the west of the Kingdom, it is the largest port of the South Coast and the main point of trade between the Kingdom and the Andarin Island. It has also a considerate fluvial trade on the Short Nor with Giska and the villages around the river.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Nunklar",
+    "x": 204,
+    "y": 588,
+    "pop": {
+      "title": "Nunklar",
+      "content": "<p>Nunklar is a medium-sized town in Dwarvendur. It is located at the source of the Sohonir (East branch) and draws its name from the classic dwarven stone house: the nunklar.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Dum-Raver",
+    "x": 266,
+    "y": 512,
+    "pop": {
+      "title": "Dum-Raver",
+      "content": "<p>Dum-Raver is a small town in Dwarvendur.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Sohogar",
+    "x": 419,
+    "y": 497,
+    "pop": {
+      "title": "Sohogar",
+      "content": "<p>Sohogar is the North-Easternmost city of Dwarves in Dwarvendur.<br />In the Wild Times it started off as a small town and a defense to the Dur. Sohogar is situated under the Sohonir and controls the only known path into the Dur.</p><p>In the Golden Age, Sohogar becomes a big trading centre as on the main route that connects Farahil with Rhotgar-Dur.</p><p>Like most of the dwarven settlements, Sohogar is built underground. The only outside sign of the city is a massive stone wall which is erected over the Sohonir to prevent entrance to the valley where the dwarves of Sohogar have their crops.</p><p>The most interesting feature of the town is the Hearing Hall. The hall is carved in white marble and is big enough to hold the ten thousand inhabitants that made the city at the time.<br />The hall is used to hold celebrations, parades, important announcements and the Narjvanast, the Great annual Hearing. In the middle of the square are two important structures: the Fountain of Absolving (golden fountain with gold powdered water) and the Stone of Remorse.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Alyber",
+    "x": 201,
+    "y": 362,
+    "pop": {
+      "title": "Alyber",
+      "content": "<p>Alyber is the largest settlements of Elves of the Forest in Lothinias. Located in the eastern part of the San-Lonor, Alyber used to be the unofficial capital of the Elves of the Forest, but it was later replaced by Eliashur as the two populations of elves worked out their differences and unified their nation into Elvenlands.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Niasoth",
+    "x": 416,
+    "y": 367,
+    "pop": {
+      "title": "Niasoth",
+      "content": "<p>Niasoth is a large town of Elves of Light situated at the south-eastern end of the Lanahuryan Lake. In the Wild Times, the town was the main defense to Elvenlands from the Wild Lands and Wyneth Forest. In the Golden Age, Niasoth loses its role but gains trading importance as it's the quickest way to reach Farahil and the other lands.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Sosniath",
+    "x": 373,
+    "y": 300,
+    "pop": {
+      "title": "Sosniath",
+      "content": "<p>Sosniath is a medium-sized town of Elves of Light located at the north-western end of the Lanahuryan Lake.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Esmeral",
+    "x": 433,
+    "y": 214,
+    "pop": {
+      "title": "Esmeral",
+      "content": "<p>Esmeral is a large town in the north-estern side of Elvenlands. It is the only large settlement in Elvenlands that is not within the San-Lonor. In the Wild Times, Esmeral was a fortress and a city of warriors, for it provided the nation the strongest defense against the numerous incursions of ogres from Zhanalost. In the Golden Age, it lost much its power as it refused to trade with the ogres it used to fight against."
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Uruzhad",
+    "x": 734,
+    "y": 202,
+    "pop": {
+      "title": "Uruzhad",
+      "content": "<p>Uruzhad is a large town of ogres located in the centre of Zhanalost.<p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Alba",
+    "x": 812,
+    "y": 452,
+    "pop": {
+      "title": "Alba",
+      "content": "<p>Alba is a town located on the mouth of the Auros, near the Northern border of the Kingdom of Men. It was built during the Wild Times and endured all throughtout the Golden Age and the Separation of the Lands.<br />Alba is a town of farmers and, in the Wild Times, it was of miltirary significance as it provided food to the Northernmost tower of the Cordon, which protected the Kingdom from Zhanalost.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Sanor",
+    "x": 804,
+    "y": 485,
+    "pop": {
+      "title": "Sanor",
+      "content": "<p>Sanor is a relatively small, fluvial town on the Auros, in the Kingdom of Men.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Narea",
+    "x": 968,
+    "y": 553,
+    "pop": {
+      "title": "Narea",
+      "content": "<p>Narea is a relatively small town in Kingdom of Men. Located on the northern branch of the Long Nor, it is a key connection between Easttown, Astenora and the Sanctuary of Wind.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Rihos",
+    "x": 729,
+    "y": 510,
+    "pop": {
+      "title": "Rihos",
+      "content": "<p>Rihos is a small town in the western side of the Kingdom of Men. Because of its strategic location, in the Wild Times, Rihos was a key connection between the Cordon and the towns on the Auros. In the Golden Age, Rihos kept its importance, becoming a due stop on the road that connected Farahil with the Kingdom.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Sidor",
+    "x": 804,
+    "y": 608,
+    "pop": {
+      "title": "Sidor",
+      "content": "<p>Sidor is a very small town in the very centre of the Kingdom of Men. Located at the back of the Munios Mountains and near the source of the Auros, it is a point of connection between the capital and the towns on the Auros.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Ravertar",
+    "x": 361,
+    "y": 638,
+    "pop": {
+      "title": "Ravertar",
+      "content": "<p>Ravertar is a relatively small town in the south-eastern side of Dwarvendur.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Giska",
+    "x": 643,
+    "y": 573,
+    "pop": {
+      "title": "Giska",
+      "content": "<p>Giska is a small town in the southeastern side of the Kingdom of Men. In the Wild Times, it used to be a ppoint of trade and military exchange between the Tower of the Axe with Gorton. With the demise of the Cordon, in the Golden Age, Giska lost its importance as a trading centre and became a smaller, farm based village.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Lornath",
+    "x": 299,
+    "y": 388,
+    "pop": {
+      "title": "Lornath",
+      "content": "<p>Lornath is a village of Elves of the Forest in the southern side of Elvenlands.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Larna",
+    "x": 216,
+    "y": 234,
+    "pop": {
+      "title": "Larna",
+      "content": "<p>Larna is a small town of Elves of the Forest in the north-western side of Elvenlands.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Solistis",
+    "x": 298,
+    "y": 160,
+    "pop": {
+      "title": "Solistis",
+      "content": "<p>Solistis is a small town of Elves of Light in the northernmost part of the San-Lonor.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Feyra",
+    "x": 520,
+    "y": 370,
+    "pop": {
+      "title": "Feyra",
+      "content": "<p>Feyra is a very small town in Elvenlands. It is located on the Northern Gulf, very close to the border with the Wild Lands. In the Wild Times, Feyra was a small fortress used by the Elves of Light to monitor the gulf and to raise the alarm should ogres from Zhanalost cross the gulf. In the Golden Age, Feyra became a small trading port between Farahil, Elvenlands and Zhanalost.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Pierthar",
+    "x": 685,
+    "y": 162,
+    "pop": {
+      "title": "Pierthar",
+      "content": "<p>Pierthar is a small town of ogres located in the northern-west side of Zhanalost.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Zhatch-hack",
+    "x": 894,
+    "y": 128,
+    "pop": {
+      "title": "Zhatch-hack",
+      "content": "<p>Zhatch-hack is a small town in the northern part of Zhanalost.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Wraghdr",
+    "x": 987,
+    "y": 278,
+    "pop": {
+      "title": "Wraghdr",
+      "content": "<p>Wraghdr is a small town of goblins ins the East of Zhanalost.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Fhuert",
+    "x": 709,
+    "y": 272,
+    "pop": {
+      "title": "Fhuert",
+      "content": "<p>Fhuert is a small town of goblins in the centre of Zhanalost.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Zhost",
+    "x": 850,
+    "y": 341,
+    "pop": {
+      "title": "Zhost",
+      "content": "<p>Zhost is a small town of goblins in the south of Zhanalost.</p>"
+    },
+    "class": "",
+    "size": "14"
+  },
+  {
+    "name": "Plains of Light",
+    "x": 446,
+    "y": 287,
+    "pop": {
+      "title": "Plains of Light",
+      "content": "<p>The Plains of Light are a vast plain in Elvenlands, following the Northern Gulf north to South. In the Wild Times, they have often been a battlefield where the Elves of Light met the ogres of Zhanalost who kept invading Elvenlands.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Spiral Islands",
+    "x": 100,
+    "y": 146,
+    "pop": {
+      "title": "Spiral Islands",
+      "content": "<p>Very little is known about these islands</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Khranal Tower",
+    "x": 616,
+    "y": 356,
+    "pop": {
+      "title": "Khranal Tower",
+      "content": "<p>Khranal Tower is a tower of Dark Magic located in Zhanalost on the Northern Gulf. In the Wild Times, it attracted the major exponents of dark magic in the continent. It lost its influence with the birth of Farahil and the creation of the Order of Magic.<br />Right at the end of the Golden Age, it was used as a hiding and gathering spot by the Dark Army, commanded by Acantus.</p>"
+    },
+    "class": "",
+    "size": "16"
+  },
+  {
+    "name": "Sanctuary of Light",
+    "x": 308,
+    "y": 230,
+    "pop": {
+      "title": "Sanctuary of Light",
+      "content": "<p>The Sanctuary of Light is a temple to Seleren built by the Elves of Light on the slope of the San-Quel.</p>"
+    },
+    "class": "",
+    "size": "12"
+  },
+  {
+    "name": "Sanctuary of Darkness",
+    "x": 750,
+    "y": 150,
+    "pop": {
+      "title": "Sanctuary of Darnkess",
+      "content": "<p>The Sanctuary of Darkness is a temple to Fhynaral built by goblins in the heart of Thakhas Mountains.</p>"
+    },
+    "class": "",
+    "size": "12"
+  },
+  {
+    "name": "Sanctuary of Wind",
+    "x": 820,
+    "y": 550,
+    "pop": {
+      "title": "Sanctuary of Wind",
+      "content": "<p>The Sanctuary of Wind is a temple to Vorhal built by the men of the Kingdom on the hills at the center of the kingdom.</p>"
+    },
+    "class": "",
+    "size": "12"
+  },
+  {
+    "name": "The Heath",
+    "x": 492,
+    "y": 602,
+    "pop": {
+      "title": "The Heath",
+      "content": "<p>The Heath is a region in the Southern Lands characterised by large but not elevated hills covered in grass, shurbs and little else. The soil is not good for agrigulture and the only creatures living there are small groups of goblins. The goblins are often employed or enslaved by ogres from the Wild Lands.</p><p> The Heath is a grassland, populated by bisons, antelops, tigers, rhinos, elephants and many more species.</p>"
+    },
+    "class": "",
+    "size": "11"
+  },
+  {
+    "name": "Shrub Forest",
+    "x": 452,
+    "y": 580,
+    "pop": {
+      "title": "Shrub Forest",
+      "content": "<p>The Shrub Forest is a forest made of mostly shrubs and small trees. In practice, the trees grow bigger in the centre of the forest, but since few people go in, the Southeners have named it Shrub Forest.</p><p>The Shrub Forest is the home of a number of small Goblin villages, as well as some small game animals.<br />With the ascent of Voor in the Wild Lands, some other ogres tribes were forced farther and farther away. One of them, the Hukarash, moved into the Shrub Forest and enslaved the Goblins, forcing them on larger and more frequent raids to the human villages.</p>"
+    },
+    "class": "green",
+    "size": "11"
+  },
+  {
+    "name": "Sanctuary of Metals",
+    "x": 250,
+    "y": 537,
+    "pop": {
+      "title": "Sanctuary of Metals",
+      "content": "<p>The Sanctuary of Metals is a temple to Rhotgar built by the dwarves of Dwarvendur near the capital, Rhotgar-Dur.</p>"
+    },
+    "class": "",
+    "size": "11"
+  },
+  {
+    "name": "Brasco",
+    "x": 558,
+    "y": 620,
+    "pop": {
+      "title": "Brasco",
+      "content": "<p>Brasco is a small town on the South Coast.</p>"
+    },
+    "class": "",
+    "size": "10"
+  },
+  {
+    "name": "Oldport",
+    "x": 524,
+    "y": 638,
+    "pop": {
+      "title": "Oldport",
+      "content": "<p>Oldport is a small town of three thousand inhabitants located at the tip of the largest stretch of land into the Andarin Islands.<br />Oldport is the biggest port in the Andarin Islands. The town is the commercial centre of the Islands. The inhabitants are mostly traiders. They collect the resources of the lands from the inland vilalges and trade them for the resources of the sea coming from the Andarin.<br />The population is mainly of white men from the Kingdom, but Andarians can be found often, traiding their boats and fish.<br />The town is made of wooden buildings, the wood imported from the Western villages, where forest trees are more abundant.<br />Oldport is rich enough to attrack the interests of goblins and ogres who, however, do not attack the place like they do for villages. They use stealth and creep in at night wihtout being seen.</p>"
+    },
+    "class": "",
+    "size": "10"
+  },
+  {
+    "name": "Pelton",
+    "x": 568,
+    "y": 645,
+    "pop": {
+      "title": "Pelton",
+      "content": "<p>Pelton is a small town in the Kingdom of Men, right on the South Coast.</p>"
+    },
+    "class": "",
+    "size": "10"
+  },
+  {
+    "name": "Banbudanoor",
+    "x": 476,
+    "y": 687,
+    "pop": {
+      "title": "Banbudanoor",
+      "content": "<p>Banbudanoor is an island in the Andarins dwelled by Andarians.</p>"
+    },
+    "class": "",
+    "size": "9"
+  },
+  {
+    "name": "Ashira",
+    "x": 540,
+    "y": 686,
+    "pop": {
+      "title": "Ashira",
+      "content": "<p>Ashira is an island in the Andarins. It takes the name from the Goddess of Water.</p>"
+    },
+    "class": "",
+    "size": "9"
+  },
+  {
+    "name": "Valaanno",
+    "x": 560,
+    "y": 680,
+    "pop": {
+      "title": "Valaanno",
+      "content": "<p>Valaanno is an island in the Andarins.</p>"
+    },
+    "class": "",
+    "size": "9"
+  },
+  {
+    "name": "Enavaas",
+    "x": 525,
+    "y": 668,
+    "pop": {
+      "title": "Enavaas",
+      "content": "<p>Enavaas is a small, dishabited island in the Andarins.</p>"
+    },
+    "class": "",
+    "size": "9"
+  },
+  {
+    "name": "Icrinto",
+    "x": 514,
+    "y": 652,
+    "pop": {
+      "title": "Icrinto",
+      "content": "<p>Icrinto is a small island in the Andarins inhabited by Southeners.</p>"
+    },
+    "class": "",
+    "size": "9"
+  },
+  {
+    "name": "Moraan",
+    "x": 459,
+    "y": 663,
+    "pop": {
+      "title": "Moraan",
+      "content": "<p>Moraan is a small island in the Andarins dwelled by both Southeners and Andarians.</p>"
+    },
+    "class": "",
+    "size": "9"
+  },
+  {
+    "name": "Mostos",
+    "x": 533,
+    "y": 740,
+    "pop": {
+      "title": "Mostos",
+      "content": "<p>Mostos is the southernmost and biggest island of the Southern Sea. In fact, it is the southernmost land in Lothinias.<br />Shaped as a boomerang, the island is very different from the other rocky islands of the Andarin. Mostos has a florid vegetation and some small fauna. It is belived that the island did not detatch from the continent of Lothinias but that was originally part of some unknown lands in the South.</p><p>Mostos is disabitated but for a community of Blue Dragons, who lay their eggs and raise their hatchlings in the shallow water of the lagoon in the southern side of the island.</p>"
+    },
+    "class": "",
+    "size": "12"
+  },
+  {
+    "name": "Andarin Island",
+    "x": 480,
+    "y": 725,
+    "pop": {
+      "title": "Andarin Island",
+      "content": "<p>The Andarin Islands are an archipelago of many small islands located in the Southern Sea. The lands opposite the Andarins are part of the Kingdom of Men and Dwarvendur.</p><p>The islands are mostly inhabited by the Andarians, black-skin men who are said to be originated from a distant land south of Lothinias. The remainders of the inhabitants of the islands are men from the Kingdom, who tend to concentrate along the islands by the coast. They are known as the Southerners.</p><p>The Andarin are small and rocky islands, with sparse vegetation but not suitable spaces for agriculture or husbandry. They include a beautiful coastal reef but the islands themselves are crests of cliff. The cliffs are not very tall, but often tall enough to make approach very hard.</p>"
+    },
+    "class": "",
+    "size": "22"
+  },
+  {
+    "name": "Sanctuary of Water",
+    "x": 560,
+    "y": 699,
+    "pop": {
+      "title": "Sanctuary of Water",
+      "content": "<p>The Sanctuary of Water is a temple to Ashira built by the Andarians and the Southeners on the island of Ashira.</p>"
+    },
+    "class": "",
+    "size": "10"
+  },
+  {
+    "name": "Sanctuary of Nature",
+    "x": 590,
+    "y": 635,
+    "pop": {
+      "title": "Sanctuary of nature",
+      "content": "<p>The Sanctuary of Nature is a hidden village in the Munios Mountains dwelled by monks known as the Peaceseekers.</p>"
+    },
+    "class": "",
+    "size": "10"
+  },
+  {
+    "name": "Southwatch",
+    "x": 446,
+    "y": 627,
+    "pop": {
+      "title": "Southwatch",
+      "content": "<p>Southwatch is a tiny village on the South Coast.</p>"
+    },
+    "class": "",
+    "size": "8"
+  },
+  {
+    "name": "Barniville",
+    "x": 473,
+    "y": 612,
+    "pop": {
+      "title": "Barniville",
+      "content": "<p>Barniville is a little village in the South Coast. It is the Northernmost settlement of the South Lands and is formed of roughly three hundred citizens.<br />The most important resource of the village are the farmlands around. Most of the villagers are farmers and they sell the products of their lands to the other villages and towns around the cross.</p>"
+    },
+    "class": "",
+    "size": "8"
+  },
+  {
+    "name": "Sandwatch",
+    "x": 570,
+    "y": 580,
+    "pop": {
+      "title": "Sandwatch",
+      "content": "<p>Sandwatch is a very small village on the eastern border of the Cracked Plains.</p>"
+    },
+    "class": "",
+    "size": "8"
+  },
+  {
+    "name": "Tower of the Axe",
+    "x": 647,
+    "y": 547,
+    "pop": {
+      "title": "Tower of the Axe",
+      "content": "<p>The Tower of the Axe is the southernmost tower of the Cordon, named after the dwarves' favourite weapon as it is the border where humans and dwarves fought during the Wild Times.</p>"
+    },
+    "class": "darkgrey",
+    "size": "8"
+  },
+  {
+    "name": "Tower of the Sword",
+    "x": 695,
+    "y": 525,
+    "pop": {
+      "title": "Tower of the Sword",
+      "content": "<p>The Tower of the Sword is a tower of the Cordon.</p>"
+    },
+    "class": "darkgrey",
+    "size": "8"
+  },
+  {
+    "name": "Tower of the Lance",
+    "x": 735,
+    "y": 489,
+    "pop": {
+      "title": "Tower of the Lance",
+      "content": "<p>The Tower of the Lance is a tower of the Cordon.</p>"
+    },
+    "class": "darkgrey",
+    "size": "8"
+  },
+  {
+    "name": "Tower of the Cleaver",
+    "x": 680,
+    "y": 450,
+    "pop": {
+      "title": "Tower of the Cleaver",
+      "content": "<p>The Tower of the Cleaver is a tower of the Cordon, named after the goblins' favourite weapon as it is the border where humans and goblins fought during the Wild Times.</p>"
+    },
+    "class": "darkgrey",
+    "size": "8"
+  },
+  {
+    "name": "Tower of the Morning Star",
+    "x": 707,
+    "y": 428,
+    "pop": {
+      "title": "Tower of the Morning Star",
+      "content": "<p>The Tower of the Morning Star is the northernmost tower of the Cordon, named after the ogres' favourite weapon as it is the border where humans and ogres fought during the Wild Times.</p>"
+    },
+    "class": "darkgrey",
+    "size": "8"
+  },
+  {
+    "name": "Dumar Mountains",
+    "x": 168,
+    "y": 555,
+    "pop": {
+      "title": "Dumar Mountains",
+      "content": "<p>The Dumar Mountains are the oldest and tallest chain of mountains in Lothinias. Completely inglobed into Dwarvendur, they are residence to over 90% of the dwarves in Lothinias.</p>"
+    },
+    "class": "brown",
+    "size": "18"
+  },
+  {
+    "name": "San-Quel",
+    "x": 227,
+    "y": 194,
+    "pop": {
+      "title": "San-Quel",
+      "content": "<p>The San-Quel is the only mountain in the San-Lonor. It is very tall, very steep and mostly made of White Granite.</p><p>The mountain is covered in luxuriant vegetation for the first 2000 feet or so, then the very steep slope and lack of dirt leave it naked. The top is covered in perennial snow.</p>"
+    },
+    "class": "brown",
+    "size": "18"
+  },
+  {
+    "name": "Thakhas Mountains",
+    "x": 835,
+    "y": 205,
+    "pop": {
+      "title": "Thakhas Mountains",
+      "content": "<p>Thakhas Mountains are a chain of mountains located north-east in Zhanalost. They are considered the birth place of ogres and goblins.</p>"
+    },
+    "class": "brown",
+    "size": "18"
+  },
+  {
+    "name": "Thakhas Mountains",
+    "x": 835,
+    "y": 205,
+    "pop": {
+      "title": "Thakhas Mountains",
+      "content": "<p>Thakhas Mountains are a chain of mountains located north-east in Zhanalost. They are considered the birth place of ogres and goblins.</p>"
+    },
+    "class": "brown",
+    "size": "18"
+  },
+  {
+    "name": "Munios Mountains",
+    "x": 665,
+    "y": 683,
+    "pop": {
+      "title": "Munios Mountains",
+      "content": "<p>The Munios Mountains are a chain of mountains located in the south of the Kingdom of Men.</p>"
+    },
+    "class": "brown",
+    "size": "18"
+  },
+  {
+    "name": "The Three Peaks",
+    "x": 905,
+    "y": 485,
+    "pop": {
+      "title": "The Three Peaks",
+      "content": "<p>The Three Peaks are the name for a mountain with three peaks located in the east of the Kingdom. At the end of the Wild Times, a small colony of Zharklis moves there.</p>"
+    },
+    "class": "brown",
+    "size": "10"
+  },
+  {
+    "name": "Misty Lands",
+    "x": 634,
+    "y": 618,
+    "pop": {
+      "title": "Misty Lands",
+      "content": "<p>The Misty Lands are a small, mountainous region south of Giska. Geographically, they are part of the Munios Mountains, and they are characterised by an almost permanent, thick mist.</p>"
+    },
+    "class": "brown",
+    "size": "10"
+  },
+  {
+    "name": "Red Sisters",
+    "x": 470,
+    "y": 465,
+    "pop": {
+      "title": "Red Sisters",
+      "content": "<p>The Red Sisters are a region of the Dumar Mountains characterised by permanent red soil.</p>"
+    },
+    "class": "brown",
+    "size": "10"
+  },
+  {
+    "name": "Red Mount",
+    "x": 500,
+    "y": 495,
+    "pop": {
+      "title": "Red Mount",
+      "content": "<p>The Red Mount is a volcano in the Dumar Mountain. In the Wild Times, the volcano exploded, propelling most of its mass in the sky. The red dust fell down on the nearby mountains, who took the name 'Red Sisters'.</p>"
+    },
+    "class": "brown",
+    "size": "10"
+  },
+  {
+    "name": "San-Lonor",
+    "x": 220,
+    "y": 305,
+    "pop": {
+      "title": "San-Lonor",
+      "content": "<p>The San-Lonor is the largest forest in Lothinias. Fully located in Elvenlands, it is the dwelling of over 90% of the elves in the continent.</p>"
+    },
+    "class": "green",
+    "size": "18"
+  },
+  {
+    "name": "Wyneth Forest",
+    "x": 660,
+    "y": 321,
+    "pop": {
+      "title": "Wyneth Forest",
+      "content": "<p>Wyneth Forest is a large forest in Zhanalost.</p>"
+    },
+    "class": "green",
+    "size": "18"
+  },
+  {
+    "name": "Old Forest",
+    "x": 750,
+    "y": 580,
+    "pop": {
+      "title": "Old Forest",
+      "content": "<p>The Old Forest is a small forest in the center of the Kingdom of Men. Cut in a half by the Auros, it is feared by the locals, who deem it infested by spirits.</p>"
+    },
+    "class": "green",
+    "size": "18"
+  },
+  {
+    "name": "Eastern Desert",
+    "x": 895,
+    "y": 325,
+    "pop": {
+      "title": "Eastern Desert",
+      "content": "<p>The Easter Desert is the largest desert in Lothinias. It is located in the east of Zhanalost.</p>"
+    },
+    "class": "darkgrey",
+    "size": "18"
+  },
+  {
+    "name": "Cracked Plains",
+    "x": 530,
+    "y": 565,
+    "pop": {
+      "title": "Cracked Plains",
+      "content": "<p>The Cracked Plains are a deserted area located in the South and Centre of Lothinias. The desert spans across The Kingdom of Men and Dwarvendur and it is divided, north to south, by the Sohonir.</p><p>The Cracked Plains are a pavement desert, as opposed to the Eastern Desert, which is a classic sand-and-dune desert. The most characteristic feature of the Plains are the exagonal cracks that are formed on the stony soil.<br />The pavement cracks because of the lack of precipitations and the difference in temperature between day and night. The cracks have different sizes, from few inches to thousands of feet wide. However, nobody really knows how all these clumps are perfect exagons.</p>"
+    },
+    "class": "darkgrey",
+    "size": "13"
+  },
+  {
+    "name": "Empty Plains",
+    "x": 700,
+    "y": 540,
+    "pop": {
+      "title": "Empty Plains",
+      "content": "<p>The Empty Plains are a relatively small deserted area in the Kingdom, located between the Cordon and the Old Forest.</p>"
+    },
+    "class": "darkgrey",
+    "size": "13"
+  },
+  {
+    "name": "Auros",
+    "x": 803,
+    "y": 503,
+    "pop": {
+      "title": "Auros",
+      "content": "<p>The Auros is the longest river in the Kingdom of Men. It divides the kingdom South to North before forming the Aurula Lake and entering the sea.</p>"
+    },
+    "class": "blue",
+    "size": "14"
+  },
+  {
+    "name": "Lake Aurula",
+    "x": 850,
+    "y": 455,
+    "pop": {
+      "title": "Lake Aurula",
+      "content": "<p>Lake Aurula is a large lake created by the Auros just before reaching the sea. It is a natural border between the Kingdom of Men and Zhanalost.</p>"
+    },
+    "class": "blue",
+    "size": "14"
+  },
+  {
+    "name": "Long Nor",
+    "x": 975,
+    "y": 625,
+    "pop": {
+      "title": "Long Nor",
+      "content": "<p>The Long Nor is a long river in the eastern side of the Kingdom of Men.</p>"
+    },
+    "class": "blue",
+    "size": "14"
+  },
+  {
+    "name": "Sohonir",
+    "x": 580,
+    "y": 500,
+    "pop": {
+      "title": "Sohonir",
+      "content": "<p>The Sohonir is the longest river in Lothinias. It has two main branches: the left branch crosses most of Dwarvendur and originates from the Dumar Mountains, and the right branch from the Kingdom.</p>"
+    },
+    "class": "blue",
+    "size": "16"
+  },
+  {
+    "name": "Short Nor",
+    "x": 570,
+    "y": 610,
+    "pop": {
+      "title": "Short Nor",
+      "content": "<p>The Short Nor is a short river in the south of the Kingdom of Men.</p>"
+    },
+    "class": "blue",
+    "size": "14"
+  },
+  {
+    "name": "Lanahuryan Lake",
+    "x": 380,
+    "y": 325,
+    "pop": {
+      "title": "Lanahuryan Lake",
+      "content": "<p>The Lanahuryan Lake is the largest lake in the San-Lonor and Elvenlands.</p>"
+    },
+    "class": "blue",
+    "size": "14"
+  },
+  {
+    "name": "The Cordon",
+    "x": 644,
+    "y": 509,
+    "pop": {
+      "title": "The Cordon",
+      "content": "<p>The Cordon is the main line of defence for the Kingdom of Men. It consists of a long, stone wall with five great towers.</p>"
+    },
+    "class": "darkgrey",
+    "size": "14"
+  },
+  {
+    "name": "Great Swamp",
+    "x": 630,
+    "y": 232,
+    "pop": {
+      "title": "Great Swamp",
+      "content": "<p>The Great Swamp is the largest swamp in Lothinias, and it is located in the western side of Zhanalost.</p>"
+    },
+    "class": "darkgrey",
+    "size": "14"
+  },
+  {
+    "name": "Quartz Tower",
+    "x": 430,
+    "y": 240,
+    "pop": {
+      "title": "Quartz Tower",
+      "content": "<p>The Quartz Tower is a fortress created by the Elves of Light as the main line of defense to Elvenlands.</p>"
+    },
+    "class": "darkgrey",
+    "size": "12"
+  },
+  {
+    "name": "100 miles",
+    "x": 110,
+    "y": 705,
+    "pop": {
+      "title": "",
+      "content": ""
+    },
+    "class": "bold",
+    "size": "18"
+  }
+]
