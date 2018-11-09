@@ -47,10 +47,9 @@ function getdim(width){
 
 
 function map_controller(){
-    $.get("/lothinias/data/map.json", function(data) {
+    $.get("/data/map.json", function(data) {
         console.log(data);
 //         data = JSON.parse(data);
-//         console.log(data);
         var svg = d3.select('svg');
         var mapDiv = document.getElementById("map-div");
 
