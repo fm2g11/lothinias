@@ -63,7 +63,7 @@ h1,h2,h3,h4,h5,h6{
     height: 240px;
     margin: 0 auto;
     color:steelblue;
-    background-image: url('images/book-sm.png');
+    background-image: url('/lothinias/images/book-sm.png');
     background-size: 90%;
     background-repeat: no-repeat;
     vertical-align: baseline;
