@@ -49,7 +49,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 #bookshelf {
-    background-image: url('/images/bookshelf.png');
+    background-image: url('images/bookshelf.png');
     background-repeat: no-repeat;
     height: 300px;
     width: 100%;
@@ -63,7 +63,7 @@ h1,h2,h3,h4,h5,h6{
     height: 240px;
     margin: 0 auto;
     color:steelblue;
-    background-image: url('/images/book-sm.png');
+    background-image: url('images/book-sm.png');
     background-size: 90%;
     background-repeat: no-repeat;
     vertical-align: baseline;
@@ -81,7 +81,7 @@ h1,h2,h3,h4,h5,h6{
     margin-top:40px;
 }
 .map-home-div {
-    background-image: url('/images/map-lothinias-home.jpg');
+    background-image: url('images/map-lothinias-home.jpg');
 }
 .home-div {
     border-radius: 10px;
@@ -106,15 +106,15 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .book-home-div {
-    background-image: url('/images/brothers-of-fire-cover.jpg');
+    background-image: url('images/brothers-of-fire-cover.jpg');
     height: 500px;
 }
 .stories-home-div {
-    background-image: url('/images/short-stories-sm.jpg');
+    background-image: url('images/short-stories-sm.jpg');
     height: 250px;
 }
 .author-home-div {
-    background-image: url('/images/francesco_moramarco.png');
+    background-image: url('images/francesco_moramarco.png');
     height: 250px;
 }
 
