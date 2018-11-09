@@ -8,6 +8,8 @@ SUPPORTED_WIDTHS = {
     750: [750, 500],
     500: [500, 333],
     375: [375, 250],
+    370: [370, 246],
+    287: [287, 192],
     250: [250, 166],
 }
 
@@ -18,6 +20,8 @@ FONT_REDUCTION = {
     750: 1.5,
     500: 2,
     375: 3,
+    370: 3,
+    287: 3.5,
     250: 4,
 }
 
@@ -48,7 +52,6 @@ function getdim(width){
 
 function map_controller(){
     $.get("/data/map.json", function(data) {
-        console.log(data);
 //         data = JSON.parse(data);
         var svg = d3.select('svg');
         var mapDiv = document.getElementById("map-div");
