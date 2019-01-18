@@ -4,6 +4,7 @@
 .map-label{
     font-style: italic;
     font-family: Apple Chancery Medium;
+    cursor: pointer;
 }
 .map-label:hover{
     fill:grey;
