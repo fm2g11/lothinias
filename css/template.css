@@ -3,6 +3,8 @@ body{
     background-color: #FFFAFA;
     font-family: 'Libre Baskerville', serif;
 }
+a {text-decoration: none;}
+
 .header {
   letter-spacing:3px !important;
   background-color: #FFFAFA;
