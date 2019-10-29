@@ -8,5 +8,5 @@
 
 
 $(document).ready(function(){
-    map_controller();
+//    map_controller();
 });
