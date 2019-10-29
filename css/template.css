@@ -99,8 +99,11 @@ h1 {
 .book-cover-purple{
     background-image: url('/images/book-sm-purple.png');
 }
-.book-cover-bof{
-    background-image: url('/images/brothers-of-fire-cover-md.jpg');
+.book-cover-BoF{
+    background-image: url('/images/brothers-of-fire-cover-sm.jpg');
+}
+.book-cover-LaD{
+    background-image: url('/images/Light-and-Darkness-front-sm.jpg');
 }
 .home {
     border-radius: 10px;
