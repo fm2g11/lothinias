@@ -240,3 +240,8 @@ h1 {
 .padded {
     padding-bottom: 30px;
 }
+.story-type {
+    background-color:rgb(200,170,180);
+    padding:4px;
+    border-radius:3px;
+}
