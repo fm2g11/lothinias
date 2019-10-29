@@ -83,6 +83,8 @@ h1 {
     cursor: pointer;
     margin-top:15px;
     margin-bottom:15px;
+    border: 2px solid rgb(60,20,40);
+    border-radius:4px;
 }
 .book-cover-red{
     background-image: url('/images/book-sm-red.png');
