@@ -78,6 +78,7 @@ h1 {
     background-repeat: no-repeat;
     font-size: 1.2em;
     cursor: pointer;
+    padding:10px;
 }
 .book-cover-red{
     background-image: url('/images/book-sm-red.png');
