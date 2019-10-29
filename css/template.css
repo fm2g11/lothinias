@@ -99,6 +99,9 @@ h1 {
 .book-cover-purple{
     background-image: url('/images/book-sm-purple.png');
 }
+.book-cover-bof{
+    background-image: url('/images/brothers-of-fire-cover-md.jpg');
+}
 .home {
     border-radius: 10px;
     margin: 20px;
