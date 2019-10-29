@@ -3,7 +3,7 @@ body{
     background-color: #FFFAFA;
     font-family: 'Libre Baskerville', serif;
 }
-a {text-decoration: none;}
+a {text-decoration: none !important;}
 
 .header {
   letter-spacing:3px !important;
@@ -81,6 +81,7 @@ h1 {
     font-size: 1.2em;
     cursor: pointer;
     padding:10px;
+    padding-top:30px;
     border-radius:4px;
 }
 .book-cover-red{
