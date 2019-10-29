@@ -249,7 +249,7 @@ h1 {
     background-color:rgb(200,170,180);
 }
 .story-type-short-story {
-    background-color:rgb(190,190,170);
+    background-color:rgb(220,220,100);
 }
 .story-type-novella {
     background-color:rgb(180,200,170);
@@ -258,5 +258,5 @@ h1 {
     background-color:rgb(180,170,200);
 }
 .story-type-document {
-    background-color:rgb(180,180,180);
+    background-color:rgb(200,170,200);
 }
