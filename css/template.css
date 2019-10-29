@@ -70,7 +70,7 @@ h1 {
 }
 .book-cover {
     width: 160px;
-    height: 220px;
+    height: 230px;
     margin: 0 auto;
     color:rgb(70, 30, 40);
     background-image: url('/images/book-cover-sm.jpg');
@@ -79,6 +79,7 @@ h1 {
     font-size: 1.2em;
     cursor: pointer;
     padding:10px;
+    border-radius:4px;
 }
 .book-cover-red{
     background-image: url('/images/book-sm-red.png');
