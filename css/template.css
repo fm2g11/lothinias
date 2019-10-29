@@ -246,17 +246,17 @@ h1 {
     border-radius:3px;
 }
 .story-type-novel {
-    background-color:rgb(200,170,180);
+    background-color:rgb(210,170,180);
 }
 .story-type-short-story {
-    background-color:rgb(220,220,100);
+    background-color:rgb(210,210,100);
 }
 .story-type-novella {
-    background-color:rgb(180,200,170);
+    background-color:rgb(180,210,170);
 }
 .story-type-novellette {
-    background-color:rgb(180,170,200);
+    background-color:rgb(180,170,210);
 }
 .story-type-document {
-    background-color:rgb(200,170,200);
+    background-color:rgb(210,170,210);
 }
