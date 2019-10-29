@@ -242,6 +242,7 @@ h1 {
 }
 .story-type {
     padding:4px;
+    margin:5px;
     border-radius:3px;
 }
 .story-type-novel {
