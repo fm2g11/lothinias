@@ -241,7 +241,21 @@ h1 {
     padding-bottom: 30px;
 }
 .story-type {
-    background-color:rgb(200,170,180);
     padding:4px;
     border-radius:3px;
+}
+.story-type-novel {
+    background-color:rgb(200,170,180);
+}
+.story-type-short-story {
+    background-color:rgb(190,190,170);
+}
+.story-type-novella {
+    background-color:rgb(180,200,170);
+}
+.story-type-novellette {
+    background-color:rgb(180,170,200);
+}
+.story-type-document {
+    background-color:rgb(180,180,180);
 }
